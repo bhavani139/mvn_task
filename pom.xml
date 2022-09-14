@@ -26,3 +26,12 @@
 </dependency>
   </dependencies>
 </project>
+
+
+
+<repositories>
+    <repository>
+      <id>id</id>
+	  <url>jfrog-repo-url</url>
+	</repository>
+  </repositories>
